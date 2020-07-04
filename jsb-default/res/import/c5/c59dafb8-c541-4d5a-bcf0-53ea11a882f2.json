@@ -1,1 +1,0 @@
-{"__type__":"cc.AnimationClip","_name":"win_light","_duration":8,"wrapMode":2,"curveData":{"paths":{"light_win2":{"props":{"angle":[{"frame":0,"value":0},{"frame":4.016666666666667,"value":-36},{"frame":8,"value":-360}]}},"light_win1":{"props":{"angle":[{"frame":0,"value":0},{"frame":4.016666666666667,"value":180},{"frame":8,"value":360}]}}}}}

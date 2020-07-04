@@ -1,1 +1,0 @@
-{"__type__":"cc.AnimationClip","_name":"rummy_player_animation_clip","_duration":3.1666666666666665,"wrapMode":2,"curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1,"y":1}},{"frame":1.25,"value":{"__type__":"cc.Vec2","x":1.100000023841858,"y":1.100000023841858}},{"frame":3.1666666666666665,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}
