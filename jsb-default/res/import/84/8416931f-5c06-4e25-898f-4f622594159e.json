@@ -1,1 +1,0 @@
-{"__type__":"cc.AnimationClip","_name":"rummy_game_exit_menu","_duration":0.1,"curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1}},{"frame":0.1,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}},"events":[{"frame":0.1,"func":"","params":[]},{"frame":0.1,"func":"","params":[]},{"frame":0.1,"func":"","params":[]}]}
