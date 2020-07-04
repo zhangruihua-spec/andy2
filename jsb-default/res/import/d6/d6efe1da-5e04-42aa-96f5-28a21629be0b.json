@@ -1,1 +1,0 @@
-{"__type__":"cc.AnimationClip","_name":"ani_lost","_duration":3,"wrapMode":2,"curveData":{"paths":{"LittleMarry_settle_accounts_lost_lost":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1,"y":1}},{"frame":1.5,"value":{"__type__":"cc.Vec2","x":1.0720000267028809,"y":1.0720000267028809}},{"frame":3,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}}}
