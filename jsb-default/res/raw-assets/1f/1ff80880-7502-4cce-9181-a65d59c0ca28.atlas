@@ -1,0 +1,83 @@
+
+dwc_countdown_lightning.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dust
+  rotate: false
+  xy: 2, 155
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+Glow_White
+  rotate: false
+  xy: 2, 89
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+VFX_Dice_01_00
+  rotate: false
+  xy: 2, 428
+  size: 276, 46
+  orig: 276, 46
+  offset: 0, 0
+  index: -1
+VFX_Grow_01
+  rotate: false
+  xy: 2, 237
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+digital_01
+  rotate: false
+  xy: 2, 23
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+digital_02
+  rotate: false
+  xy: 280, 410
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+digital_03
+  rotate: false
+  xy: 346, 410
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+digital_04
+  rotate: false
+  xy: 412, 410
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+digital_05
+  rotate: false
+  xy: 68, 89
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+vs_lightning_01
+  rotate: false
+  xy: 2, 340
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+vs_lightning_02
+  rotate: false
+  xy: 132, 364
+  size: 128, 62
+  orig: 128, 62
+  offset: 0, 0
+  index: -1

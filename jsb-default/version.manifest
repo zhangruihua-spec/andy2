@@ -1,0 +1,13 @@
+{
+    "packageUrl": "http://static.handigame.com/hot_pkg/9apps_1.4.1/",
+    "remoteVersionUrl": "http://static.handigame.com/hot_pkg/9apps_1.4.1/version.manifest",
+    "remoteManifestUrl": "http://static.handigame.com/hot_pkg/9apps_1.4.1/project.manifest",
+    "version": "1.4.1",
+    "engineVersion": "Cocos2d-JS v3.0 RC0",
+    "httpHost": [
+        "http://13.232.205.131:8000/"
+    ],
+    "tcpHost": [
+        "ws://13.232.205.131:8015"
+    ]
+}

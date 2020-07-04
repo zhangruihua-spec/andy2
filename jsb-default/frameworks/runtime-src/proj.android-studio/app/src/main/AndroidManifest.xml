@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.cocos2dx.game"
+    android:installLocation="auto">
+
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- Android O版本调用安装需要使用该权限 -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <uses-permission android:name="android.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <!-- 硬件加速对X5视频播放非常重要，建议开启 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <application
+        android:name="org.cocos2dx.game.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppThemeNoTitleBarFullscreen"
+        >
+
+        <!-- Tell Cocos2dxActivity the name of our .so -->
+        <meta-data
+            android:name="android.app.lib_name"
+            android:value="cocos2djs" />
+
+        <activity
+            android:name="org.cocos2dx.game.activity.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="sensorLandscape"
+            android:taskAffinity=""
+            android:theme="@style/AppThemeNoTitleBarFullscreen"
+            android:usesCleartextTraffic="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="apk_channel"
+            android:value="${apk_channel}" />
+
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.4" />
+
+        <activity android:name="org.cocos2dx.game.activity.PayWebViewActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            />
+        <activity
+            android:name="org.cocos2dx.game.activity.ScreenShotActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@style/AppThemeTranslucent" />
+
+        <activity
+            android:name="org.cocos2dx.game.activity.SaveImgAvtivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+
+        <service
+            android:name="org.cocos2dx.game.notification.NotificationService"
+            android:exported="false" />
+
+        <service
+            android:name="org.cocos2dx.game.service.KeepLiveService"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.adjust.sdk.AdjustReferrerReceiver"
+            android:permission="android.permission.INSTALL_PACKAGES"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            tools:replace="android:authorities"
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.fileProvider"
+            android:grantUriPermissions="true"
+            android:exported="false">
+            <meta-data
+                tools:replace="android:resource"
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>
