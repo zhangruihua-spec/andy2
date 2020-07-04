@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"declare_waiting_user_animation","_duration":1,"sample":30,"curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1.2000000476837158,"y":1.2000000476837158}},{"frame":0.6666666666666666,"value":{"__type__":"cc.Vec2","x":0.800000011920929,"y":0.800000011920929}},{"frame":1,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}

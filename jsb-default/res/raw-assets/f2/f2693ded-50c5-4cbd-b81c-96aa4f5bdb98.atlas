@@ -1,0 +1,223 @@
+
+mipai_light.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang01
+  rotate: false
+  xy: 2, 2
+  size: 21, 138
+  orig: 21, 138
+  offset: 0, 0
+  index: -1
+liuguang02
+  rotate: false
+  xy: 1577, 1853
+  size: 21, 132
+  orig: 21, 132
+  offset: 0, 0
+  index: -1
+mipai_kuang
+  rotate: false
+  xy: 2, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_01
+  rotate: false
+  xy: 2, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_02
+  rotate: false
+  xy: 227, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_03
+  rotate: false
+  xy: 2, 880
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_04
+  rotate: false
+  xy: 227, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_05
+  rotate: false
+  xy: 452, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_06
+  rotate: false
+  xy: 2, 511
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_07
+  rotate: false
+  xy: 227, 880
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_08
+  rotate: false
+  xy: 452, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_09
+  rotate: false
+  xy: 677, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_10
+  rotate: false
+  xy: 2, 142
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_11
+  rotate: false
+  xy: 227, 511
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_12
+  rotate: false
+  xy: 452, 880
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_13
+  rotate: false
+  xy: 677, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_14
+  rotate: false
+  xy: 902, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_15
+  rotate: false
+  xy: 227, 142
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_16
+  rotate: false
+  xy: 452, 511
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_17
+  rotate: false
+  xy: 677, 880
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_18
+  rotate: false
+  xy: 902, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_19
+  rotate: false
+  xy: 1127, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_20
+  rotate: false
+  xy: 452, 142
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_21
+  rotate: false
+  xy: 677, 511
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_22
+  rotate: false
+  xy: 902, 880
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_23
+  rotate: false
+  xy: 1127, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_24
+  rotate: false
+  xy: 1352, 1618
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_25
+  rotate: false
+  xy: 677, 142
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_26
+  rotate: false
+  xy: 902, 511
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_27
+  rotate: false
+  xy: 1127, 880
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1
+mipai_light_28
+  rotate: false
+  xy: 1352, 1249
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1

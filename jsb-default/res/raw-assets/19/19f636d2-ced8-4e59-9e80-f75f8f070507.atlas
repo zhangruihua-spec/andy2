@@ -1,0 +1,139 @@
+
+spine_brnn_jsxz.png
+size: 1740,683
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 544
+  size: 1206, 137
+  orig: 1206, 137
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 271
+  size: 1208, 132
+  orig: 1208, 132
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 405
+  size: 1202, 137
+  orig: 1202, 137
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 12
+  size: 1206, 124
+  orig: 1206, 124
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 138
+  size: 1208, 131
+  orig: 1208, 131
+  offset: 0, 0
+  index: -1
+l002
+  rotate: false
+  xy: 1523, 163
+  size: 178, 42
+  orig: 178, 42
+  offset: 0, 0
+  index: -1
+l003
+  rotate: false
+  xy: 1210, 526
+  size: 528, 155
+  orig: 528, 155
+  offset: 0, 0
+  index: -1
+l004
+  rotate: false
+  xy: 1212, 123
+  size: 309, 194
+  orig: 309, 194
+  offset: 0, 0
+  index: -1
+l005
+  rotate: false
+  xy: 1523, 207
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+l006
+  rotate: false
+  xy: 1283, 13
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+l007
+  rotate: true
+  xy: 1399, 14
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+l008
+  rotate: false
+  xy: 1206, 447
+  size: 459, 77
+  orig: 459, 77
+  offset: 0, 0
+  index: -1
+l009
+  rotate: false
+  xy: 1667, 466
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+l010
+  rotate: false
+  xy: 1568, 142
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+l011
+  rotate: false
+  xy: 1523, 134
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+l012
+  rotate: false
+  xy: 1641, 293
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+l013
+  rotate: false
+  xy: 1212, 319
+  size: 499, 126
+  orig: 499, 126
+  offset: 0, 0
+  index: -1
+l014
+  rotate: false
+  xy: 1667, 487
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+l015
+  rotate: true
+  xy: 1210, 2
+  size: 119, 71
+  orig: 119, 71
+  offset: 0, 0
+  index: -1

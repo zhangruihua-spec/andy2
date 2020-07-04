@@ -1,0 +1,377 @@
+
+beijing.png
+size: 4052,1576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BattlecryFlashBurst_Weapon
+  rotate: false
+  xy: 2004, 42
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+basiclight
+  rotate: false
+  xy: 579, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dakuang
+  rotate: false
+  xy: 2474, 896
+  size: 1110, 678
+  orig: 1110, 678
+  offset: 0, 0
+  index: -1
+degnnong
+  rotate: true
+  xy: 2, 25
+  size: 105, 215
+  orig: 105, 215
+  offset: 0, 0
+  index: -1
+fangzi1
+  rotate: true
+  xy: 2201, 903
+  size: 105, 165
+  orig: 105, 165
+  offset: 0, 0
+  index: -1
+fangzi2
+  rotate: true
+  xy: 2004, 896
+  size: 112, 195
+  orig: 112, 195
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_01
+  rotate: false
+  xy: 3586, 1157
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_02
+  rotate: false
+  xy: 3805, 1404
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_03
+  rotate: false
+  xy: 2518, 203
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_04
+  rotate: false
+  xy: 2696, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_05
+  rotate: false
+  xy: 3586, 985
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_06
+  rotate: false
+  xy: 2848, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_07
+  rotate: false
+  xy: 3000, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_08
+  rotate: false
+  xy: 3152, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_09
+  rotate: false
+  xy: 3304, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_10
+  rotate: false
+  xy: 3456, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_11
+  rotate: false
+  xy: 3608, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_12
+  rotate: false
+  xy: 3760, 384
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_13
+  rotate: false
+  xy: 2518, 31
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_14
+  rotate: false
+  xy: 3738, 1157
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_15
+  rotate: false
+  xy: 3738, 985
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_16
+  rotate: false
+  xy: 2670, 203
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_17
+  rotate: false
+  xy: 2670, 31
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_18
+  rotate: false
+  xy: 2822, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_19
+  rotate: false
+  xy: 2822, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_20
+  rotate: false
+  xy: 2974, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_21
+  rotate: false
+  xy: 2974, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_22
+  rotate: false
+  xy: 3126, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_23
+  rotate: false
+  xy: 3126, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_24
+  rotate: false
+  xy: 3278, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_25
+  rotate: false
+  xy: 3278, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_26
+  rotate: false
+  xy: 3430, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_27
+  rotate: false
+  xy: 3430, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_28
+  rotate: false
+  xy: 3582, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_29
+  rotate: false
+  xy: 3582, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_30
+  rotate: false
+  xy: 3734, 212
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_31
+  rotate: false
+  xy: 3734, 40
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_32
+  rotate: false
+  xy: 3886, 211
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_33
+  rotate: false
+  xy: 3886, 39
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+fireworks/fireworks_34
+  rotate: false
+  xy: 3890, 1232
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+land
+  rotate: false
+  xy: 2, 558
+  size: 2000, 450
+  orig: 2000, 450
+  offset: 0, 0
+  index: -1
+m_fw_glow_1
+  rotate: false
+  xy: 3586, 1329
+  size: 217, 245
+  orig: 217, 245
+  offset: 0, 0
+  index: -1
+m_fw_glow_2
+  rotate: false
+  xy: 3957, 1413
+  size: 84, 161
+  orig: 84, 161
+  offset: 0, 0
+  index: -1
+m_fw_glow_3
+  rotate: false
+  xy: 3912, 383
+  size: 138, 171
+  orig: 138, 171
+  offset: 0, 0
+  index: -1
+m_fw_glow_4
+  rotate: true
+  xy: 3890, 922
+  size: 145, 152
+  orig: 145, 152
+  offset: 0, 0
+  index: -1
+shucai
+  rotate: false
+  xy: 2518, 375
+  size: 176, 179
+  orig: 176, 179
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 1010
+  size: 2470, 564
+  orig: 2470, 564
+  offset: 0, 0
+  index: -1
+wu
+  rotate: false
+  xy: 2004, 556
+  size: 2000, 338
+  orig: 2000, 338
+  offset: 0, 0
+  index: -1
+yuanbao1
+  rotate: true
+  xy: 3890, 1069
+  size: 161, 156
+  orig: 161, 156
+  offset: 0, 0
+  index: -1
+yuanbao2
+  rotate: false
+  xy: 219, 4
+  size: 184, 126
+  orig: 184, 126
+  offset: 0, 0
+  index: -1
+yuanbao3
+  rotate: false
+  xy: 405, 12
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+yuanbao4
+  rotate: false
+  xy: 2368, 930
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+yuanshan
+  rotate: false
+  xy: 2, 132
+  size: 2000, 424
+  orig: 2000, 424
+  offset: 0, 0
+  index: -1

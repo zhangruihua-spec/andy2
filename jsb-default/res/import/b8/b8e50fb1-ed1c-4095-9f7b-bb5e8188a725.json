@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"chip_rotation_animation","_duration":0.75,"sample":20,"wrapMode":2,"curveData":{"props":{"angle":[{"frame":0,"value":0},{"frame":0.75,"value":-360}]}}}
