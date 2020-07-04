@@ -1,0 +1,76 @@
+
+buyu_coin.png
+size: 173,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_img_jb_01
+  rotate: false
+  xy: 2, 48
+  size: 43, 44
+  orig: 45, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_02
+  rotate: false
+  xy: 46, 2
+  size: 41, 44
+  orig: 43, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_03
+  rotate: false
+  xy: 47, 48
+  size: 39, 44
+  orig: 41, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_04
+  rotate: true
+  xy: 127, 59
+  size: 33, 44
+  orig: 35, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_05
+  rotate: false
+  xy: 89, 2
+  size: 21, 44
+  orig: 23, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_06
+  rotate: false
+  xy: 112, 2
+  size: 10, 44
+  orig: 12, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_07
+  rotate: true
+  xy: 124, 4
+  size: 20, 44
+  orig: 22, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_08
+  rotate: true
+  xy: 127, 26
+  size: 31, 44
+  orig: 33, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_09
+  rotate: false
+  xy: 88, 48
+  size: 37, 44
+  orig: 39, 46
+  offset: 1, 1
+  index: -1
+fish_img_jb_10
+  rotate: false
+  xy: 2, 2
+  size: 42, 44
+  orig: 44, 46
+  offset: 1, 1
+  index: -1

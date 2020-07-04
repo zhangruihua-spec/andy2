@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"fish_yuChao_run","_duration":1,"speed":1.5,"curveData":{"paths":{"statusBg":{"props":{"position":[{"frame":0,"value":[1000,0]},{"frame":1,"value":[0,0]}]}},"status":{"props":{"position":[{"frame":0,"value":[-1000,0]},{"frame":1,"value":[0,0]}]}}}}}

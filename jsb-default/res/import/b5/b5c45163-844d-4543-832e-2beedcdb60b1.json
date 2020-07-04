@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"chip_run_anim","_duration":0.1,"sample":70,"speed":0.05,"wrapMode":2,"curveData":{"props":{"angle":[{"frame":0,"value":0},{"frame":0.07142857142857142,"value":-546.1938000000417},{"frame":0.1,"value":-720}]},"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"f3u65bOi9JmZk2+av+Z1v/"}}]}}}}

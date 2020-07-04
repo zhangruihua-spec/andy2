@@ -1,0 +1,132 @@
+
+failure.png
+size: 476,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baojian
+  rotate: false
+  xy: 318, 96
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 93
+  size: 952, 58
+  orig: 952, 58
+  offset: 0, 0
+  index: -1
+caidai
+  rotate: true
+  xy: 62, 54
+  size: 360, 158
+  orig: 360, 158
+  offset: 0, 0
+  index: -1
+dun
+  rotate: false
+  xy: 295, 500
+  size: 166, 163
+  orig: 166, 163
+  offset: 0, 0
+  index: -1
+img
+  rotate: true
+  xy: 62, 416
+  size: 629, 231
+  orig: 629, 231
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: false
+  xy: 314, 32
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: false
+  xy: 379, 28
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 295, 665
+  size: 380, 174
+  orig: 380, 174
+  offset: 0, 0
+  index: -1
+y_chibang
+  rotate: false
+  xy: 222, 266
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+y_futou
+  rotate: false
+  xy: 222, 152
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+y_laba
+  rotate: true
+  xy: 318, 167
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+y_mao_1
+  rotate: true
+  xy: 419, 410
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+y_mao_2
+  rotate: true
+  xy: 401, 93
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+z_chibang
+  rotate: true
+  xy: 295, 389
+  size: 109, 122
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+z_futou
+  rotate: false
+  xy: 332, 276
+  size: 93, 111
+  orig: 93, 111
+  offset: 0, 0
+  index: -1
+z_laba
+  rotate: true
+  xy: 396, 179
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+z_mao_1
+  rotate: true
+  xy: 2, 2
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+z_mao_2
+  rotate: true
+  xy: 222, 44
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
